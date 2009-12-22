@@ -1,7 +1,7 @@
 /* -----------------------------------------------------------------------
 
 
- Tabs Plugin 0.1 for the Blueprint CSS Framework
+ Tabs Plugin 0.2 for the Blueprint CSS Framework
  http://blueprintcss.org
 
    * Copyright (c) 2008-Present. Refer to the main Blueprint license.
@@ -16,6 +16,7 @@
 	margin:0 0 .75em 0;
 	min-height:auto;
 	overflow:auto;
+	padding-left:0; 
 }
 .tabs li {
   border:1px solid #ccc;
