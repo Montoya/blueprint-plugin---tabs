@@ -12,11 +12,12 @@
 
 .tabs { 
 	border-bottom:1px solid #ccc;
-	height:1%; /* fixing IE 6 */
+	height:auto; 
 	margin:0 0 .75em 0;
 	overflow:auto;
 	padding-left:0; 
 }
+* html .tabs { height:1%; /* fixing IE 6 */ }
 .tabs li {
   border:1px solid #ccc;
   border-bottom:none;
