@@ -14,7 +14,6 @@
 	border-bottom:1px solid #ccc;
 	height:1%; /* fixing IE 6 */
 	margin:0 0 .75em 0;
-	min-height:auto;
 	overflow:auto;
 	padding-left:0; 
 }
