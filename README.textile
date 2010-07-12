@@ -6,7 +6,7 @@ h2. Usage:
 
 # Upload the screen.css file to a new directory on your server (preferably tabsplugin/)
 # Include the plugin file in the @<head/>@ of your webpage. 
-<link rel="stylesheet" href="tabsplugin/screen.css" type="text/css" media="screen,projection">
+<code><link rel="stylesheet" href="tabsplugin/screen.css" type="text/css" media="screen,projection"></code>
 # Add the class @"tabs"@ to your list. An example: 
 <pre><code>
 <ul class='tabs'>
